@@ -1,7 +1,7 @@
 # Snova Async (`Snova.Std.Async`)
 
-Primitivas de concorrência e programação assíncrona em Snovalang puro.
+Concurrency and asynchronous primitives in pure Snovalang.
 
-## Módulos
-- `TaskState`
-- `Channel` (Canais de comunicação concorrentes / Pulsar)
+## Features
+- `TaskState` lifecycle tracker
+- `Channel` concurrent message stream
