@@ -1,0 +1,10 @@
+module github.com/supernovalang/snova-async https://github.com/supernovalang/snova-async
+
+snova "1.0.0"
+
+dependencies(
+    direct = [
+    ],
+    indirect = [
+    ]
+)
